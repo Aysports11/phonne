@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Noir Elegance",
+    "brand": "Chanel",
+    "price": 25000,
+    "description": "A sophisticated blend of jasmine, vanilla, and sandalwood, perfect for evening wear.",
+    "image": "https://images.pexels.com/photos/2337867/pexels-photo-2337867.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1557980/pexels-photo-1557980.jpeg",
+      "https://images.pexels.com/photos/2337867/pexels-photo-2337867.jpeg",
+      "https://images.pexels.com/photos/2922276/pexels-photo-2922276.jpeg"
+    ],
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Ayo", "comment": "Absolutely divine scent!", "rating": 5 },
+      { "user": "Nathan", "comment": "Long-lasting and elegant.", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aqua Breeze",
+    "brand": "Dior",
+    "price": 30000,
+    "description": "A fresh and vibrant fragrance with notes of citrus, mint, and sea salt.",
+    "image": "https://images.pexels.com/photos/2922276/pexels-photo-2922276.jpeg",
+    "images": [
+      "/images/perfume2_1.jpg",
+      "/images/perfume2_2.jpg",
+      "/images/perfume2_3.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Korede", "comment": "Perfect for daily use.", "rating": 4 },
+      { "user": "Confidence", "comment": "Very refreshing!", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Velvet Rose",
+    "brand": "Yves Saint Laurent",
+    "price": 28000,
+    "description": "A romantic floral scent with rose, amber, and patchouli undertones.",
+    "image": "https://images.pexels.com/photos/7703038/pexels-photo-7703038.jpeg",
+    "images": [
+      "/images/perfume3_1.jpg",
+      "/images/perfume3_2.jpg",
+      "/images/perfume3_3.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Jenifer", "comment": "Smells like a bouquet of roses!", "rating": 5 },
+      { "user": "Mustapha", "comment": "Great for special occasions.", "rating": 4 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Midnight Oud",
+    "brand": "Tom Ford",
+    "price": 45000,
+    "description": "A rich and smoky fragrance with oud, leather, and spices.",
+    "image": "https://images.pexels.com/photos/1557980/pexels-photo-1557980.jpeg",
+    "images": [
+      "/images/perfume4_1.jpg",
+      "/images/perfume4_2.jpg",
+      "/images/perfume4_3.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": [
+      { "user": "Aisha", "comment": "Luxurious and bold!", "rating": 5 },
+      { "user": "Ifeanyi", "comment": "A bit strong but amazing.", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Citrus Glow",
+    "brand": "Jo Malone",
+    "price": 20000,
+    "description": "A zesty blend of grapefruit, bergamot, and cedarwood.",
+    "image": "https://images.pexels.com/photos/1200502/pexels-photo-1200502.jpeg",
+    "images": [
+      "/images/perfume5_1.jpg",
+      "/images/perfume5_2.jpg",
+      "/images/perfume5_3.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Bisi", "comment": "Perfect summer scent.", "rating": 4 },
+      { "user": "Chukwuma", "comment": "Very uplifting!", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Floral Whisper",
+    "brand": "Lancôme",
+    "price": 27000,
+    "description": "A delicate fragrance with lily, peony, and musk notes.",
+    "image": "https://images.pexels.com/photos/724646/pexels-photo-724646.jpeg",
+    "images": [
+      "/images/perfume6_1.jpg",
+      "/images/perfume6_2.jpg",
+      "/images/perfume6_3.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Ada", "comment": "Soft and feminine.", "rating": 4.5 },
+      { "user": "Obi", "comment": "Great for daily wear.", "rating": 4 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Spice Voyage",
+    "brand": "Creed",
+    "price": 50000,
+    "description": "An exotic mix of saffron, cardamom, and amber.",
+    "image": "https://images.pexels.com/photos/1961794/pexels-photo-1961794.jpeg",
+    "images": [
+      "/images/perfume7_1.jpg",
+      "/images/perfume7_2.jpg",
+      "/images/perfume7_3.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Zainab", "comment": "Unique and captivating!", "rating": 5 },
+      { "user": "Segun", "comment": "A bit pricey but worth it.", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ocean Mist",
+    "brand": "Gucci",
+    "price": 22000,
+    "description": "A refreshing scent with marine notes, lavender, and patchouli.",
+    "image": "https://images.pexels.com/photos/2508558/pexels-photo-2508558.jpeg",
+    "images": [
+      "/images/perfume8_1.jpg",
+      "/images/perfume8_2.jpg",
+      "/images/perfume8_3.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": [
+      { "user": "Chioma", "comment": "Feels like a beach getaway!", "rating": 4 },
+      { "user": "Yemi", "comment": "Nice but fades quickly.", "rating": 3.5 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Golden Amber",
+    "brand": "Armani",
+    "price": 32000,
+    "description": "A warm fragrance with amber, vanilla, and cedar notes.",
+    "image": "https://images.pexels.com/photos/1645017/pexels-photo-1645017.jpeg",
+    "images": [
+      "/images/perfume9_1.jpg",
+      "/images/perfume9_2.jpg",
+      "/images/perfume9_3.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Tolu", "comment": "Cozy and luxurious.", "rating": 4.5 },
+      { "user": "Kemi", "comment": "Perfect for winter.", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mystic Bloom",
+    "brand": "Versace",
+    "price": 26000,
+    "description": "A vibrant floral scent with jasmine, orchid, and musk.",
+    "image": "https://images.pexels.com/photos/32085869/pexels-photo-32085869/free-photo-of-versace-eros-energy-perfume-and-box-display.jpeg",
+    "images": [
+      "/images/perfume10_1.jpg",
+      "/images/perfume10_2.jpg",
+      "/images/perfume10_3.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Efe", "comment": "Lovely and floral!", "rating": 4.5 },
+      { "user": "Sola", "comment": "Great for spring.", "rating": 4 }
+    ]
+  }
+]
